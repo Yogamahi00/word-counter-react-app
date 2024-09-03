@@ -51,3 +51,8 @@ header p{
   background-color: darkblue;
   color: white;
 }
+
+.error-page{
+  margin-top: 13rem;
+  text-align: center;
+}
